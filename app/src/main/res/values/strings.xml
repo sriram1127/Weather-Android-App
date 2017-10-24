@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="city_hint">City (i.e Charlotte)</string>
+    <string name="state_hint">State (i.e NC)</string>
+    <string name="submit_button">Forecast</string>
+    <string name="favorite_label">Favorites</string>
+    <string name="no_favorite_msg">There is no city in your Favourites</string>
+    <string name="current_location_label">Current Location: </string>
+    <string name="max_temp_label">Max Temperature :</string>
+    <string name="min_temp_Label">Min Temperature :</string>
+
+    <string name="feels_like">Feels Like :</string>
+    <string name="humidity">Humidity :</string>
+    <string name="dewpoint">Dewpoint :</string>
+    <string name="pressure">Pressure :</string>
+    <string name="clouds">Clouds :</string>
+    <string name="winds">Winds :</string>
+    <string name="hourly_data">HOURLY DATA</string>
+    <string name="dialog_title">Loading Hourly Data</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+</resources>
